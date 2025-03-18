@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kush-Hash
-- 👀 I’m interested in : competetive programming , cyber security n still exploring..
-- 🌱 I’m currently learning : Devops now ..
+- 👀 I’m interested in : Data Analysis , MAchine Learning & MERN 
+- 🌱 I’m currently learning : Machine Learning And MERN
 - 💞️ I’m looking to collaborate on : Projects on Web Dev right now
 - 📫 How to reach me : You can mail me at - ankush.ghosh.work@gmail.com
 - 😄 Pronouns: he/him
